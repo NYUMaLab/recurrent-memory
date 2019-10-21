@@ -1,4 +1,7 @@
-# Recurrent Memory
+# Recurrent Memory (archival copy)
+
+This is a Ma lab copy of the original GitHub repository and code base, kept here for archival purposes. Please go to https://github.com/eminorhan/recurrent-memory for possible updates.
+
 
 This repository contains the code for reproducing the results reported in the following paper:
 
